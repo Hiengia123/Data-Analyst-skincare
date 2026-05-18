@@ -1,0 +1,66 @@
+{
+    "rules": {
+        "items": {
+            ".read": true,
+            ".indexOn": [
+                "categoryId",
+                "productType",
+                "price",
+                "rated",
+                "showRecommend",
+                "capacity",
+                "weight"
+            ]
+        },
+        "banners": {
+            ".read": true
+        },
+        "categories": {
+            ".read": true
+        },
+        "attributes": {
+            ".read": true
+        },
+        "users": {
+            "$uid": {
+                ".read": "auth != null && auth.uid === $uid",
+                ".write": "auth != null && auth.uid === $uid"
+            }
+        },
+        "carts": {
+            "$uid": {
+                ".read": "auth != null && auth.uid === $uid",
+                ".write": "auth != null && auth.uid === $uid"
+            }
+        },
+        "favorites": {
+            "$uid": {
+                ".read": "auth != null && auth.uid === $uid",
+                ".write": "auth != null && auth.uid === $uid"
+            }
+        },
+        "orders": {
+            ".read": "auth != null",
+            ".write": "auth != null",
+            ".indexOn": [
+                "userId",
+                "createdAt"
+            ]
+        },
+        "ratings": {
+            "$productId": {
+                ".read": true,
+                "$uid": {
+                    ".read": true,
+                    ".write": "auth != null && auth.uid === $uid"
+                }
+            }
+        },
+        "productStats": {
+            ".read": true,
+            "$productId": {
+                ".write": "auth != null"
+            }
+        }
+    }
+}

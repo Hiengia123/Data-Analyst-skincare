@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  # Ví dụ: Database Data Warehouse
+  postgres-dw:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: dw_user
+      POSTGRES_PASSWORD: dw_password
+      POSTGRES_DB: data_warehouse
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  # Ví dụ: Backend FastAPI
+  backend:
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DW_DB_URL=postgresql://dw_user:dw_password@postgres-dw:5432/data_warehouse
+    depends_on:
+      - postgres-dw
+
+  # Ví dụ: Frontend React
+  frontend:
+    build:
+      context: ../frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+
+volumes:
+  pgdata:

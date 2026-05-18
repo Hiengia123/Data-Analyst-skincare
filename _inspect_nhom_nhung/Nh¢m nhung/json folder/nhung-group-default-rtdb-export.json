@@ -1,0 +1,1263 @@
+{
+  "attributes": {
+    "capacity": {
+      "100ml": true,
+      "150ml": true,
+      "30ml": true,
+      "50ml": true
+    },
+    "productType": {
+      "kem_chong_nang": true,
+      "son": true,
+      "sua_rua_mat": true
+    },
+    "weight": {
+      "3_5g": true,
+      "3g": true,
+      "7g": true
+    }
+  },
+  "banners": {
+    "chanel": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/banner_chanel.jpg?alt=media&token=d4b9d9c4-3b78-4bf8-b624-7550ce331c16"
+    },
+    "dior": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/banner_dior.png?alt=media&token=498989bd-3ce9-4e63-95dd-c41e5aaefbcf"
+    },
+    "mac": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/banner_mac.jpg?alt=media&token=fd41cb0d-9cb2-4603-9646-8a31f2a4b3d2"
+    },
+    "rare": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/banner_rare.jpg?alt=media&token=330d853d-a207-4a64-b2b0-b41f324088b4"
+    }
+  },
+  "categories": {
+    "chanel": {
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/logo_chanel.png?alt=media&token=ba843904-6337-4b21-9f2e-d77ca8b0def0",
+      "title": "Chanel"
+    },
+    "dior": {
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/logo_dior.png?alt=media&token=abaf82ab-9d5d-4be7-999a-fbdf60aa3936",
+      "title": "Dior"
+    },
+    "mac": {
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/logo_mac.png?alt=media&token=b2a9c082-9a3a-422e-ad30-9f7fabb0b817",
+      "title": "M.A.C"
+    },
+    "rare": {
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/logo_rare.png?alt=media&token=039a1155-2d3c-43af-93ef-84873d937f7c",
+      "title": "Rare Beauty"
+    }
+  },
+  "favorites": {
+    "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1": {
+      "chanel_cc_cream": {
+        "availableCapacities": [
+          "30ml",
+          "50ml",
+          "100ml"
+        ],
+        "capacity": "30ml",
+        "categoryId": "chanel",
+        "categoryTitle": "Chanel",
+        "description": "Siêu phẩm 5 trong 1: Làm đều màu, dưỡng ẩm, sửa chữa khuyết điểm, bảo vệ da với chỉ số SPF 50 và làm sáng da. Kết cấu lỏng nhẹ, thẩm thấu nhanh, mang lại lớp nền tự nhiên như không trang điểm.",
+        "id": "chanel_cc_cream",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+        "keywords": [
+          "kcn",
+          "kem chong nang",
+          "chanel",
+          "cc cream",
+          "spf 50",
+          "kem nen",
+          "trang diem",
+          "bao ve da"
+        ],
+        "numberInCart": 0,
+        "price": 1690000,
+        "productType": "kem_chong_nang",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC_1.webp?alt=media&token=3575e067-e36b-46b0-8339-90d80429550d",
+          "img2": ""
+        },
+        "rated": 4.9,
+        "selectedCapacity": "30ml",
+        "selectedColor": "",
+        "selectedWeight": "",
+        "showRecommend": true,
+        "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50",
+        "weight": ""
+      },
+      "chanel_cleanser_gel": {
+        "availableCapacities": [
+          "150ml",
+          "30ml",
+          "50ml"
+        ],
+        "capacity": "150ml",
+        "categoryId": "chanel",
+        "categoryTitle": "Chanel",
+        "description": "Sữa rửa mặt dạng gel tạo bọt giúp làm sạch sâu và chống ô nhiễm. Khi tiếp xúc với nước, kết cấu gel biến thành bọt mịn màng, loại bỏ bụi bẩn, vi hạt ô nhiễm và bã nhờn, trả lại làn da tươi mát.",
+        "id": "chanel_cleanser_gel",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+        "keywords": [
+          "sua rua mat",
+          "chanel",
+          "le gel",
+          "cleanser",
+          "gel",
+          "chong o nhiem",
+          "sach sau"
+        ],
+        "numberInCart": 0,
+        "price": 1450000,
+        "productType": "sua_rua_mat",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique_1.webp?alt=media&token=fba2ce92-37f6-4a8e-abf2-5d738471a487",
+          "img2": ""
+        },
+        "rated": 4.7,
+        "selectedCapacity": "150ml",
+        "selectedColor": "",
+        "selectedWeight": "",
+        "showRecommend": true,
+        "title": "Gel Rửa Mặt Chanel Le Gel",
+        "weight": ""
+      }
+    },
+    "OuMSB67WYvd2Su8KRZOq34pC3ub2": {
+      "chanel_cleanser_gel": {
+        "availableCapacities": [
+          "150ml",
+          "30ml",
+          "50ml"
+        ],
+        "capacity": "150ml",
+        "categoryId": "chanel",
+        "categoryTitle": "Chanel",
+        "description": "Sữa rửa mặt dạng gel tạo bọt giúp làm sạch sâu và chống ô nhiễm. Khi tiếp xúc với nước, kết cấu gel biến thành bọt mịn màng, loại bỏ bụi bẩn, vi hạt ô nhiễm và bã nhờn, trả lại làn da tươi mát.",
+        "id": "chanel_cleanser_gel",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+        "keywords": [
+          "sua rua mat",
+          "chanel",
+          "le gel",
+          "cleanser",
+          "gel",
+          "chong o nhiem",
+          "sach sau"
+        ],
+        "numberInCart": 0,
+        "price": 1450000,
+        "productType": "sua_rua_mat",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique_1.webp?alt=media&token=fba2ce92-37f6-4a8e-abf2-5d738471a487",
+          "img2": ""
+        },
+        "rated": 4.7,
+        "selectedCapacity": "150ml",
+        "selectedColor": "",
+        "selectedWeight": "",
+        "showRecommend": true,
+        "title": "Gel Rửa Mặt Chanel Le Gel",
+        "weight": ""
+      },
+      "chanel_lipstick_velvet": {
+        "availableColors": [
+          "58 Rouge Vie",
+          "43 La Favorite",
+          "69 Abstrait"
+        ],
+        "availableWeights": [
+          "3.5g",
+          "3g",
+          "7g"
+        ],
+        "capacity": "",
+        "categoryId": "chanel",
+        "categoryTitle": "Chanel",
+        "description": "Thỏi son lì dạng nhung mềm mại, mang lại màu sắc rạng rỡ và sâu sắc. Kết cấu son lướt nhẹ trên môi như làn da thứ hai, chứa dầu Jojoba giúp dưỡng ẩm, không gây khô môi dù lì hoàn hảo.",
+        "id": "chanel_lipstick_velvet",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+        "keywords": [
+          "son",
+          "chanel",
+          "rouge allure",
+          "velvet",
+          "li",
+          "do",
+          "makeup",
+          "cao cap"
+        ],
+        "numberInCart": 0,
+        "price": 1230000,
+        "productType": "son",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176_1.jpg?alt=media&token=c175f9b9-edf6-44ce-ad2d-2843ba2b2665",
+          "img2": ""
+        },
+        "rated": 4.8,
+        "selectedCapacity": "",
+        "selectedColor": "58 Rouge Vie",
+        "selectedWeight": "3.5g",
+        "showRecommend": true,
+        "title": "Son Chanel Rouge Allure Velvet",
+        "weight": "3.5g"
+      }
+    },
+    "wfljSDvla1hRkfZCfXOYauSJB2R2": {
+      "dior_lipstick_999": {
+        "availableColors": [
+          "Đỏ 999",
+          "Hồng 100",
+          "Cam 200"
+        ],
+        "availableWeights": [
+          "3g",
+          "3.5g",
+          "7g"
+        ],
+        "capacity": "",
+        "categoryId": "dior",
+        "categoryTitle": "Dior",
+        "description": "Màu đỏ huyền thoại mang tính biểu tượng của Dior. Chất son Velvet mịn lì như nhung, giữ màu lâu trôi nhưng vẫn mềm môi nhờ chiết xuất hoa mẫu đơn.",
+        "id": "dior_lipstick_999",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999.webp?alt=media&token=5046340c-382f-43fd-a498-eab7d72e3138",
+        "keywords": [
+          "son",
+          "dior",
+          "rouge",
+          "999",
+          "do",
+          "lipstick",
+          "velvet",
+          "li",
+          "makeup"
+        ],
+        "numberInCart": 1,
+        "price": 1150000,
+        "productType": "son",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999_1.webp?alt=media&token=72b505c4-00b7-4799-a6e1-1512fc2ff861",
+          "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999_2.webp?alt=media&token=5af36014-c0b4-477f-be5b-29ec441dc581"
+        },
+        "rated": 4.9,
+        "selectedCapacity": "",
+        "selectedColor": "Đỏ 999",
+        "selectedWeight": "3g",
+        "showRecommend": true,
+        "title": "Son Dior Rouge 999 Velvet",
+        "weight": "3.5g"
+      }
+    },
+    "zhWv9zCaBCOVRu9CKeaI6EFDhDe2": {
+      "chanel_cc_cream": {
+        "availableCapacities": [
+          "30ml",
+          "50ml",
+          "100ml"
+        ],
+        "capacity": "30ml",
+        "categoryId": "chanel",
+        "categoryTitle": "Chanel",
+        "description": "Siêu phẩm 5 trong 1: Làm đều màu, dưỡng ẩm, sửa chữa khuyết điểm, bảo vệ da với chỉ số SPF 50 và làm sáng da. Kết cấu lỏng nhẹ, thẩm thấu nhanh, mang lại lớp nền tự nhiên như không trang điểm.",
+        "id": "chanel_cc_cream",
+        "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+        "keywords": [
+          "kcn",
+          "kem chong nang",
+          "chanel",
+          "cc cream",
+          "spf 50",
+          "kem nen",
+          "trang diem",
+          "bao ve da"
+        ],
+        "numberInCart": 0,
+        "price": 1690000,
+        "productType": "kem_chong_nang",
+        "product_gallery": {
+          "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC_1.webp?alt=media&token=3575e067-e36b-46b0-8339-90d80429550d",
+          "img2": ""
+        },
+        "rated": 4.9,
+        "selectedCapacity": "30ml",
+        "selectedColor": "",
+        "selectedWeight": "",
+        "showRecommend": true,
+        "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50",
+        "weight": ""
+      }
+    }
+  },
+  "items": {
+    "chanel_cc_cream": {
+      "availableCapacities": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "capacity": "30ml",
+      "categoryId": "chanel",
+      "categoryTitle": "Chanel",
+      "description": "Siêu phẩm 5 trong 1: Làm đều màu, dưỡng ẩm, sửa chữa khuyết điểm, bảo vệ da với chỉ số SPF 50 và làm sáng da. Kết cấu lỏng nhẹ, thẩm thấu nhanh, mang lại lớp nền tự nhiên như không trang điểm.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+      "keywords": [
+        "kcn",
+        "kem chong nang",
+        "chanel",
+        "cc cream",
+        "spf 50",
+        "kem nen",
+        "trang diem",
+        "bao ve da"
+      ],
+      "price": 1690000,
+      "productType": "kem_chong_nang",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC_1.webp?alt=media&token=3575e067-e36b-46b0-8339-90d80429550d"
+      },
+      "rated": 4.9,
+      "showRecommend": true,
+      "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+    },
+    "chanel_cleanser_gel": {
+      "availableCapacities": [
+        "150ml",
+        "30ml",
+        "50ml"
+      ],
+      "capacity": "150ml",
+      "categoryId": "chanel",
+      "categoryTitle": "Chanel",
+      "description": "Sữa rửa mặt dạng gel tạo bọt giúp làm sạch sâu và chống ô nhiễm. Khi tiếp xúc với nước, kết cấu gel biến thành bọt mịn màng, loại bỏ bụi bẩn, vi hạt ô nhiễm và bã nhờn, trả lại làn da tươi mát.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+      "keywords": [
+        "sua rua mat",
+        "chanel",
+        "le gel",
+        "cleanser",
+        "gel",
+        "chong o nhiem",
+        "sach sau"
+      ],
+      "price": 1450000,
+      "productType": "sua_rua_mat",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique_1.webp?alt=media&token=fba2ce92-37f6-4a8e-abf2-5d738471a487"
+      },
+      "rated": 4.7,
+      "showRecommend": true,
+      "title": "Gel Rửa Mặt Chanel Le Gel"
+    },
+    "chanel_cleanser_mousse": {
+      "availableCapacities": [
+        "100ml",
+        "150ml",
+        "200ml"
+      ],
+      "capacity": "150ml",
+      "categoryId": "chanel",
+      "categoryTitle": "Chanel",
+      "description": "Làm sạch sâu và thanh lọc bề mặt da. Công thức kem đặc chuyển hóa thành bọt mịn màng, mang lại cảm giác thư giãn tuyệt đối.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_La.webp?alt=media&token=9cf2882b-3d9f-491a-a0c5-348ce20b281c",
+      "keywords": [
+        "sua rua mat",
+        "chanel",
+        "la mousse",
+        "cleanser",
+        "bot",
+        "sach sau"
+      ],
+      "price": 1350000,
+      "productType": "sua_rua_mat",
+      "rated": 4.8,
+      "showRecommend": false,
+      "title": "Sữa Rửa Mặt Chanel La Mousse"
+    },
+    "chanel_lipstick_velvet": {
+      "availableColors": [
+        "58 Rouge Vie",
+        "43 La Favorite",
+        "69 Abstrait"
+      ],
+      "availableWeights": [
+        "3.5g",
+        "3g",
+        "7g"
+      ],
+      "categoryId": "chanel",
+      "categoryTitle": "Chanel",
+      "description": "Thỏi son lì dạng nhung mềm mại, mang lại màu sắc rạng rỡ và sâu sắc. Kết cấu son lướt nhẹ trên môi như làn da thứ hai, chứa dầu Jojoba giúp dưỡng ẩm, không gây khô môi dù lì hoàn hảo.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+      "keywords": [
+        "son",
+        "chanel",
+        "rouge allure",
+        "velvet",
+        "li",
+        "do",
+        "makeup",
+        "cao cap"
+      ],
+      "price": 1230000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176_1.jpg?alt=media&token=c175f9b9-edf6-44ce-ad2d-2843ba2b2665"
+      },
+      "rated": 4.8,
+      "showRecommend": true,
+      "title": "Son Chanel Rouge Allure Velvet",
+      "weight": "3.5g"
+    },
+    "chanel_sunscreen_uv": {
+      "availableCapacities": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "capacity": "30ml",
+      "categoryId": "chanel",
+      "categoryTitle": "Chanel",
+      "description": "Bảo vệ da toàn diện với SPF 50. Kết cấu dạng gel-cream mỏng nhẹ, không gây nhờn rít, tạo lớp nền hoàn hảo bảo vệ da khỏi tia UV và ô nhiễm.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_chanel_UV.webp?alt=media&token=2f8a1bbd-d224-4f17-9921-c3edeff14a2a",
+      "keywords": [
+        "kcn",
+        "kem chong nang",
+        "chanel",
+        "uv",
+        "spf 50",
+        "sunscreen",
+        "bao ve da"
+      ],
+      "price": 1650000,
+      "productType": "kem_chong_nang",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_chanel_UV_1.webp?alt=media&token=9b8a2dc0-bd66-4e17-88b1-2adfc831de38",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_chanel_UV_2.webp?alt=media&token=d40d008f-9782-439b-8302-7bcc1e266a89"
+      },
+      "rated": 4.7,
+      "showRecommend": true,
+      "title": "Kem Chống Nắng Chanel UV Essentiel"
+    },
+    "dior_cleanser_off_on": {
+      "availableCapacities": [
+        "100ml",
+        "150ml",
+        "200ml"
+      ],
+      "capacity": "150ml",
+      "categoryId": "dior",
+      "categoryTitle": "Dior",
+      "description": "Sữa rửa mặt tạo bọt với công nghệ OFF/ON: Loại bỏ bụi bẩn, tạp chất (OFF) và bảo vệ, làm dịu da (ON). Thích hợp cho da nhạy cảm.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_dior_on.webp?alt=media&token=9b804cef-f83f-428e-8ebc-8e8414727724",
+      "keywords": [
+        "sua rua mat",
+        "dior",
+        "la mousse",
+        "off on",
+        "rua mat",
+        "cleanser",
+        "skincare"
+      ],
+      "price": 1450000,
+      "productType": "sua_rua_mat",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_dior_on_1.webp?alt=media&token=6d5af5a3-a7aa-4c9c-bdc8-78884b5c5b9d",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_dior_on_2.webp?alt=media&token=4ae46bff-df4b-49ce-887a-6f236c80d316"
+      },
+      "rated": 4.8,
+      "showRecommend": true,
+      "title": "Sữa Rửa Mặt Dior La Mousse OFF/ON"
+    },
+    "dior_lip_glow_001": {
+      "availableColors": [
+        "001 Pink",
+        "004 Coral",
+        "012 Rosewood"
+      ],
+      "availableWeights": [
+        "3.2g",
+        "3.5g",
+        "7g"
+      ],
+      "categoryId": "dior",
+      "categoryTitle": "Dior",
+      "description": "Thỏi son dưỡng mang tính biểu tượng của Dior với công nghệ Color Reviver giúp phản ứng với độ pH của môi để lên màu hồng tự nhiên. Chứa dầu anh đào giúp dưỡng ẩm suốt 24 giờ, mang lại đôi môi căng mọng và mềm mịn.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_dior_addict.jpg?alt=media&token=7c020761-a91f-4865-8847-1228c0d8ab94",
+      "keywords": [
+        "son",
+        "duong",
+        "dior",
+        "addict",
+        "lip glow",
+        "hong",
+        "balm",
+        "mem moi"
+      ],
+      "price": 980000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_dior_addict_1.jpg?alt=media&token=6f716afb-7ab5-40de-83b2-055be7384b00"
+      },
+      "rated": 4.8,
+      "showRecommend": true,
+      "title": "Son Dưỡng Dior Addict Lip Glow",
+      "weight": "3.2g"
+    },
+    "dior_lipstick_999": {
+      "availableColors": [
+        "Đỏ 999",
+        "Hồng 100",
+        "Cam 200"
+      ],
+      "availableWeights": [
+        "3g",
+        "3.5g",
+        "7g"
+      ],
+      "categoryId": "dior",
+      "categoryTitle": "Dior",
+      "description": "Màu đỏ huyền thoại mang tính biểu tượng của Dior. Chất son Velvet mịn lì như nhung, giữ màu lâu trôi nhưng vẫn mềm môi nhờ chiết xuất hoa mẫu đơn.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999.webp?alt=media&token=5046340c-382f-43fd-a498-eab7d72e3138",
+      "keywords": [
+        "son",
+        "dior",
+        "rouge",
+        "999",
+        "do",
+        "lipstick",
+        "velvet",
+        "li",
+        "makeup"
+      ],
+      "price": 1150000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999_1.webp?alt=media&token=72b505c4-00b7-4799-a6e1-1512fc2ff861",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/son_dior_999_2.webp?alt=media&token=5af36014-c0b4-477f-be5b-29ec441dc581"
+      },
+      "rated": 4.9,
+      "showRecommend": true,
+      "title": "Son Dior Rouge 999 Velvet",
+      "weight": "3.5g"
+    },
+    "dior_prestige_cleanser": {
+      "availableCapacities": [
+        "50ml",
+        "100ml",
+        "150ml"
+      ],
+      "capacity": "120g",
+      "categoryId": "dior",
+      "categoryTitle": "Dior",
+      "description": "Sữa rửa mặt tạo bọt cao cấp chiết xuất từ vi chất hoa hồng Granville. Giúp làm sạch sâu, loại bỏ tạp chất và bã nhờn mà không gây khô da. Mang lại làn da tươi mới, rạng rỡ và mềm mại như cánh hoa.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_dior_LaPrestige.webp?alt=media&token=bdceaaa7-ad68-4c54-bc2b-5f08b684369b",
+      "keywords": [
+        "sua rua mat",
+        "dior",
+        "prestige",
+        "la mousse",
+        "micellaire",
+        "hoa hong",
+        "cao cap",
+        "sach sau"
+      ],
+      "price": 2300000,
+      "productType": "sua_rua_mat",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_dior_LaPrestige_1.webp?alt=media&token=0b6cdbe5-a350-4983-8f7c-a387deb951f3"
+      },
+      "rated": 4.9,
+      "showRecommend": true,
+      "title": "Sữa Rửa Mặt Dior Prestige La Mousse Micellaire"
+    },
+    "dior_solar_sunscreen": {
+      "availableCapacities": [
+        "50ml",
+        "100ml",
+        "150ml"
+      ],
+      "capacity": "50ml",
+      "categoryId": "dior",
+      "categoryTitle": "Dior",
+      "description": "Kem chống nắng bảo vệ da toàn diện trước tia UVA/UVB với chỉ số SPF 50. Kết cấu kem mỏng nhẹ, thấm nhanh, không gây nhờn rít hay vệt trắng. Bổ sung dưỡng chất giúp da ẩm mượt và căng bóng dưới ánh nắng.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_dior_sola.webp?alt=media&token=16dab7e1-bd26-4bc8-b690-05af3613be05",
+      "keywords": [
+        "kcn",
+        "kem chong nang",
+        "dior",
+        "solar",
+        "spf 50",
+        "bao ve da",
+        "chong nang"
+      ],
+      "price": 1350000,
+      "productType": "kem_chong_nang",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_dior_sola.webp?alt=media&token=16dab7e1-bd26-4bc8-b690-05af3613be05"
+      },
+      "rated": 4.7,
+      "showRecommend": true,
+      "title": "Kem Chống Nắng Dior Solar The Protective Creme SPF 50"
+    },
+    "mac_lipstick_ruby_woo": {
+      "availableColors": [
+        "Đỏ 999",
+        "Hồng 100",
+        "Cam 200"
+      ],
+      "availableWeights": [
+        "3g",
+        "3.5g",
+        "7g"
+      ],
+      "categoryId": "mac",
+      "categoryTitle": "M.A.C",
+      "description": "Sắc đỏ lạnh (Blue-red) kinh điển phù hợp mọi tông da. Chất son Retro Matte siêu lì, độ bám màu lên đến 8 tiếng, là biểu tượng của MAC.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_mac_retroMatte.jpg?alt=media&token=ccd5153f-2e52-47a0-809d-5f5c2da188f1",
+      "keywords": [
+        "son",
+        "mac",
+        "ruby woo",
+        "do lanh",
+        "li",
+        "retro matte",
+        "trang diem"
+      ],
+      "price": 650000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_mac_retroMatte_1.jpg?alt=media&token=18465bcd-595c-4a55-b900-e82bfff1b8dd",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_mac_retroMatte_2.jpg?alt=media&token=4504562b-c9e9-430d-94fb-83b849f09125"
+      },
+      "rated": 4.6,
+      "showRecommend": true,
+      "title": "Son MAC Retro Matte - Ruby Woo",
+      "weight": "3g"
+    },
+    "mac_prep_prime": {
+      "availableCapacities": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "capacity": "30ml",
+      "categoryId": "mac",
+      "categoryTitle": "M.A.C",
+      "description": "Sản phẩm đa năng vừa làm kem lót trang điểm, vừa chống nắng bảo vệ da với SPF 50. Giúp lớp nền bền màu và mịn màng hơn.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_mac_pepPrime.webp?alt=media&token=c80d546a-758b-4d9c-b74c-316c6af82a24",
+      "keywords": [
+        "kcn",
+        "kem chong nang",
+        "mac",
+        "prep prime",
+        "kem lot",
+        "spf 50"
+      ],
+      "price": 1050000,
+      "productType": "kem_chong_nang",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_mac_pepPrime_1.webp?alt=media&token=f5bc72f5-83e0-4751-9402-203e4b00cba9",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/sunscreen_mac_pepPrime_2.webp?alt=media&token=97f82cf6-fbe9-491c-8edd-5764a844a550"
+      },
+      "rated": 4.5,
+      "showRecommend": true,
+      "title": "Kem Lót/Chống Nắng MAC Prep+Prime"
+    },
+    "rare_blush_joy": {
+      "availableColors": [
+        "Đỏ 999",
+        "Hồng 100",
+        "Cam 200"
+      ],
+      "availableWeights": [
+        "3g",
+        "3.5g",
+        "7g"
+      ],
+      "capacity": "7.5ml",
+      "categoryId": "rare",
+      "categoryTitle": "Rare Beauty",
+      "description": "Má hồng dạng lỏng đình đám của Selena Gomez. Màu Joy (Cam đào) rạng rỡ với kết cấu Dewy căng bóng, độ bám màu cực tốt cả ngày dài.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_softPinch.webp?alt=media&token=c20b41db-fcd6-4944-8891-064de51729d7",
+      "keywords": [
+        "ma hong",
+        "rare beauty",
+        "selena",
+        "soft pinch",
+        "joy",
+        "cam dao",
+        "blush"
+      ],
+      "price": 750000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_softPinch_1.webp?alt=media&token=1869ae43-59c6-47d0-9da9-224e9bf801ba",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_softPinch_2.webp?alt=media&token=ddcdae60-5910-401c-8d97-1706191db303"
+      },
+      "rated": 5,
+      "showRecommend": true,
+      "title": "Má Hồng Rare Beauty Soft Pinch - Joy"
+    },
+    "rare_lip_oil_wonder": {
+      "availableColors": [
+        "Đỏ 999",
+        "Hồng 100",
+        "Cam 200"
+      ],
+      "availableWeights": [
+        "3g",
+        "3.5g",
+        "7g"
+      ],
+      "capacity": "3ml",
+      "categoryId": "rare",
+      "categoryTitle": "Rare Beauty",
+      "description": "Son tint dạng dầu độc đáo, tạo hiệu ứng môi căng mọng (glossy) ban đầu và để lại lớp tint màu bền bỉ sau khi ăn uống. Màu Wonder: Hồng đất nữ tính.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_wonder.webp?alt=media&token=f90e05db-1040-407e-b210-fe3010f7305a",
+      "keywords": [
+        "son",
+        "rare beauty",
+        "lip oil",
+        "wonder",
+        "hong dat",
+        "tint",
+        "bong"
+      ],
+      "price": 620000,
+      "productType": "son",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_wonder_1.webp?alt=media&token=cb240750-ce4f-480d-858e-d3e5c4c24fe7",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_wonder_2.webp?alt=media&token=ae9619ad-a7e3-4444-8e64-4e73d1bbf72e"
+      },
+      "rated": 4.9,
+      "showRecommend": true,
+      "title": "Son Dầu Rare Beauty Lip Oil - Wonder"
+    },
+    "rare_tinted_moisturizer": {
+      "availableCapacities": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "capacity": "30ml",
+      "categoryId": "rare",
+      "categoryTitle": "Rare Beauty",
+      "description": "Kem nền mỏng nhẹ tích hợp chống nắng SPF 20. Làm đều màu da, che phủ khuyết điểm nhẹ nhàng và cấp ẩm cho da căng mướt.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_positive.webp?alt=media&token=b817be40-19be-4bd7-93bc-6630939ff30e",
+      "keywords": [
+        "kcn",
+        "kem chong nang",
+        "rare beauty",
+        "tinted",
+        "nen",
+        "duong am",
+        "spf"
+      ],
+      "price": 890000,
+      "productType": "kem_chong_nang",
+      "product_gallery": {
+        "img1": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_positive_1.webp?alt=media&token=938a40e6-f4fc-4594-a24a-b07727aa5f31",
+        "img2": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_positive_2.webp?alt=media&token=18c64125-2317-4b55-a502-87ceb40b2cad"
+      },
+      "rated": 4.5,
+      "showRecommend": false,
+      "title": "Rare Beauty Positive Light Tinted (KCN)"
+    }
+  },
+  "orders": {
+    "ORDER_000068C0": {
+      "createdAt": 1767726232569,
+      "items": {
+        "chanel_cleanser_gel_1767726232568": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+          "price": 1450000,
+          "productId": "chanel_cleanser_gel",
+          "quantity": 1,
+          "selectedCapacity": "150ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Gel Rửa Mặt Chanel Le Gel"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_000068C0",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "ba",
+        "city": "TP. Hồ Chí Minh",
+        "district": "ba",
+        "name": "Thanh",
+        "phone": "0392576398",
+        "ward": "ba"
+      },
+      "status": "pending",
+      "totalPrice": 1450000,
+      "userId": "8O8i4cWXqUY94zGb6ZCYGEIAHtS2"
+    },
+    "ORDER_044D9D8E": {
+      "createdAt": 1768353336892,
+      "items": {
+        "chanel_cc_cream_1768353336892": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 2,
+          "selectedCapacity": "50ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_044D9D8E",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "dh kien truc",
+        "city": "TP. Hồ Chí Minh",
+        "district": "tl",
+        "name": "thanh",
+        "phone": "0123456789",
+        "ward": "tk"
+      },
+      "status": "pending",
+      "totalPrice": 3380000,
+      "userId": "zhWv9zCaBCOVRu9CKeaI6EFDhDe2"
+    },
+    "ORDER_30E724E1": {
+      "createdAt": 1766890018835,
+      "items": {
+        "rare_blush_joy_1766890018835": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_rare_softPinch.webp?alt=media&token=c20b41db-fcd6-4944-8891-064de51729d7",
+          "price": 750000,
+          "productId": "rare_blush_joy",
+          "quantity": 1,
+          "selectedCapacity": "7.5ml",
+          "selectedColor": "Đỏ 999",
+          "selectedWeight": "3g",
+          "title": "Má Hồng Rare Beauty Soft Pinch - Joy"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_30E724E1",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "yen xa",
+        "city": "Ha Noi",
+        "district": "thanh tri",
+        "name": "Nguyen Duy Hien",
+        "phone": "0969174891",
+        "ward": "tan trieu"
+      },
+      "status": "pending",
+      "totalPrice": 750000,
+      "userId": "OuMSB67WYvd2Su8KRZOq34pC3ub2"
+    },
+    "ORDER_31130C7C": {
+      "createdAt": 1766938811852,
+      "items": {
+        "chanel_cc_cream_1766938811851": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        },
+        "chanel_lipstick_velvet_1766938811852": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+          "price": 1230000,
+          "productId": "chanel_lipstick_velvet",
+          "quantity": 2,
+          "selectedCapacity": "",
+          "selectedColor": "58 Rouge Vie",
+          "selectedWeight": "3.5g",
+          "title": "Son Chanel Rouge Allure Velvet"
+        }
+      },
+      "note": "ABABC ",
+      "orderId": "ORDER_31130C7C",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "Kim son",
+        "city": "TP. Hồ Chí Minh",
+        "district": "ninh binh",
+        "name": "thu",
+        "phone": "01234567891",
+        "ward": "khanh nhac"
+      },
+      "status": "pending",
+      "totalPrice": 4150000,
+      "userId": "Z1SKddEezbZejAGwCDc4hgwLZdk2"
+    },
+    "ORDER_40B477D6": {
+      "createdAt": 1767670643221,
+      "items": {
+        "chanel_cc_cream_1767670643221": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 2,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_40B477D6",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "bla bla",
+        "city": "TP. Hồ Chí Minh",
+        "district": "bla bla",
+        "name": "Thanh",
+        "phone": "0392576398",
+        "ward": "bla bla"
+      },
+      "status": "pending",
+      "totalPrice": 3380000,
+      "userId": "8O8i4cWXqUY94zGb6ZCYGEIAHtS2"
+    },
+    "ORDER_4FA744FE": {
+      "createdAt": 1766890601571,
+      "items": {
+        "mac_lipstick_ruby_woo_1766890601571": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_mac_retroMatte.jpg?alt=media&token=ccd5153f-2e52-47a0-809d-5f5c2da188f1",
+          "price": 650000,
+          "productId": "mac_lipstick_ruby_woo",
+          "quantity": 1,
+          "selectedCapacity": "",
+          "selectedColor": "Đỏ 999",
+          "selectedWeight": "3g",
+          "title": "Son MAC Retro Matte - Ruby Woo"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_4FA744FE",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "yen xa",
+        "city": "ha noi",
+        "district": "thanh tri",
+        "name": "nhung",
+        "phone": "0988613183",
+        "ward": "tan trieu"
+      },
+      "status": "pending",
+      "totalPrice": 650000,
+      "userId": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "ORDER_5BF2A1F2": {
+      "createdAt": 1766888515052,
+      "items": {
+        "chanel_cc_cream_1766888515052": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_5BF2A1F2",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "11",
+        "city": "hn",
+        "district": "thanh liet",
+        "name": "nhung",
+        "phone": "0988613183",
+        "ward": "trieu khuc"
+      },
+      "status": "pending",
+      "totalPrice": 1690000,
+      "userId": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "ORDER_63B7FE90": {
+      "createdAt": 1766890556195,
+      "items": {
+        "chanel_cc_cream_1766890556195": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        },
+        "chanel_lipstick_velvet_1766890556195": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+          "price": 1230000,
+          "productId": "chanel_lipstick_velvet",
+          "quantity": 1,
+          "selectedCapacity": "",
+          "selectedColor": "58 Rouge Vie",
+          "selectedWeight": "3.5g",
+          "title": "Son Chanel Rouge Allure Velvet"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_63B7FE90",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "yen xa",
+        "city": "ha noi",
+        "district": "thanh tri",
+        "name": "nhung",
+        "phone": "0988613183",
+        "ward": "tan trieu"
+      },
+      "status": "pending",
+      "totalPrice": 2920000,
+      "userId": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "ORDER_706DE8F8": {
+      "createdAt": 1767070394690,
+      "items": {
+        "chanel_cc_cream_1767070394690": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        },
+        "chanel_cleanser_gel_1767070394690": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+          "price": 1450000,
+          "productId": "chanel_cleanser_gel",
+          "quantity": 1,
+          "selectedCapacity": "150ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Gel Rửa Mặt Chanel Le Gel"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_706DE8F8",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "tk",
+        "city": "TP. Hồ Chí Minh",
+        "district": "tl",
+        "name": "nhung",
+        "phone": "0988613183 ",
+        "ward": "tk"
+      },
+      "status": "pending",
+      "totalPrice": 3140000,
+      "userId": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "ORDER_7A28D96E": {
+      "createdAt": 1766877576066,
+      "items": {
+        "chanel_cc_cream_1766877576066": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_7A28D96E",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "8 Yen xa",
+        "city": "Ha Noi",
+        "district": "Thanh tri",
+        "name": "Nguyen Duy Hien",
+        "phone": "0969174891",
+        "ward": "Tan Trieu"
+      },
+      "status": "pending",
+      "totalPrice": 1690000,
+      "userId": "OuMSB67WYvd2Su8KRZOq34pC3ub2"
+    },
+    "ORDER_98085520": {
+      "createdAt": 1766879276441,
+      "items": {
+        "chanel_cleanser_gel_1766879276441": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+          "price": 1450000,
+          "productId": "chanel_cleanser_gel",
+          "quantity": 1,
+          "selectedCapacity": "150ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Gel Rửa Mặt Chanel Le Gel"
+        },
+        "chanel_lipstick_velvet_1766879276441": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+          "price": 1230000,
+          "productId": "chanel_lipstick_velvet",
+          "quantity": 1,
+          "selectedCapacity": "",
+          "selectedColor": "58 Rouge Vie",
+          "selectedWeight": "3.5g",
+          "title": "Son Chanel Rouge Allure Velvet"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_98085520",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "Yen Xa",
+        "city": "Ha Noi",
+        "district": "Thanh Tri",
+        "name": "Nguyen Duy Hien",
+        "phone": "0969174891",
+        "ward": "Tan Trieu"
+      },
+      "status": "pending",
+      "totalPrice": 2680000,
+      "userId": "OuMSB67WYvd2Su8KRZOq34pC3ub2"
+    },
+    "ORDER_98DCA787": {
+      "createdAt": 1766889617807,
+      "items": {
+        "chanel_cleanser_gel_1766889617807": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/cleanser_chanel_LeTonique.webp?alt=media&token=410c226d-2df7-4ac0-afdf-1f6223b7994a",
+          "price": 1450000,
+          "productId": "chanel_cleanser_gel",
+          "quantity": 1,
+          "selectedCapacity": "150ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Gel Rửa Mặt Chanel Le Gel"
+        },
+        "chanel_lipstick_velvet_1766889617807": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/lipstick_chanel_176.jpg?alt=media&token=63b7f88e-7744-4c94-83b9-e93cf69ab792",
+          "price": 1230000,
+          "productId": "chanel_lipstick_velvet",
+          "quantity": 1,
+          "selectedCapacity": "",
+          "selectedColor": "58 Rouge Vie",
+          "selectedWeight": "3.5g",
+          "title": "Son Chanel Rouge Allure Velvet"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_98DCA787",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "yen xa",
+        "city": "ha noi",
+        "district": "thanh tri",
+        "name": "nhung",
+        "phone": "0988613183",
+        "ward": "tan trieu"
+      },
+      "status": "pending",
+      "totalPrice": 2680000,
+      "userId": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "ORDER_EF8E1710": {
+      "createdAt": 1766878655454,
+      "items": {
+        "chanel_cc_cream_1766878655454": {
+          "image": "https://firebasestorage.googleapis.com/v0/b/nhung-group.firebasestorage.app/o/suncreen_chanel_CC.webp?alt=media&token=363fa35c-fbf7-446d-a14d-cfe9616a68cb",
+          "price": 1690000,
+          "productId": "chanel_cc_cream",
+          "quantity": 1,
+          "selectedCapacity": "30ml",
+          "selectedColor": "",
+          "selectedWeight": "",
+          "title": "Kem Nền Chống Nắng Chanel CC Cream SPF 50"
+        }
+      },
+      "note": "",
+      "orderId": "ORDER_EF8E1710",
+      "paymentMethod": "cod",
+      "shippingAddress": {
+        "address": "Yen Xa",
+        "city": "Ha Noi",
+        "district": "Thanh Tri",
+        "name": "Nguyen Duy Hien",
+        "phone": "0969174891",
+        "ward": "Tan Trieu"
+      },
+      "status": "pending",
+      "totalPrice": 1690000,
+      "userId": "OuMSB67WYvd2Su8KRZOq34pC3ub2"
+    }
+  },
+  "users": {
+    "8O8i4cWXqUY94zGb6ZCYGEIAHtS2": {
+      "avatarUrl": "",
+      "createdAt": 1767670585425,
+      "email": "Minhthanh@gmail.com",
+      "name": "Thanh",
+      "phone": "",
+      "provider": "email",
+      "uid": "8O8i4cWXqUY94zGb6ZCYGEIAHtS2"
+    },
+    "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1": {
+      "avatarUrl": "",
+      "createdAt": 1766888406133,
+      "email": "nhung@gmail.com",
+      "name": "nhung",
+      "phone": "",
+      "provider": "email",
+      "uid": "Mc0kE4k5ufZ8TsvpGr9Cz0jOdfu1"
+    },
+    "OuMSB67WYvd2Su8KRZOq34pC3ub2": {
+      "avatarUrl": "",
+      "createdAt": 1766875041269,
+      "email": "hien22cdpkthn@gmail.com",
+      "name": "Nguyen Duy Hien",
+      "phone": "",
+      "provider": "email",
+      "uid": "OuMSB67WYvd2Su8KRZOq34pC3ub2"
+    },
+    "P70tpnV8BrOu6LRnu5rLaoCkP4u1": {
+      "avatarUrl": "",
+      "createdAt": 1767077806223,
+      "email": "test@gmail.com",
+      "name": "test",
+      "phone": "",
+      "provider": "email",
+      "uid": "P70tpnV8BrOu6LRnu5rLaoCkP4u1"
+    },
+    "Z1SKddEezbZejAGwCDc4hgwLZdk2": {
+      "avatarUrl": "",
+      "createdAt": 1766906936071,
+      "email": "thu@gmail.com",
+      "name": "thu",
+      "phone": "",
+      "provider": "email",
+      "uid": "Z1SKddEezbZejAGwCDc4hgwLZdk2"
+    },
+    "wfljSDvla1hRkfZCfXOYauSJB2R2": {
+      "avatarUrl": "",
+      "createdAt": 1767076980687,
+      "email": "abc@gmail.com",
+      "name": "abc",
+      "phone": "",
+      "provider": "email",
+      "uid": "wfljSDvla1hRkfZCfXOYauSJB2R2"
+    },
+    "zhWv9zCaBCOVRu9CKeaI6EFDhDe2": {
+      "avatarUrl": "",
+      "createdAt": 1768353261517,
+      "email": "thanh@gmail.com",
+      "name": "thanh",
+      "phone": "",
+      "provider": "email",
+      "uid": "zhWv9zCaBCOVRu9CKeaI6EFDhDe2"
+    }
+  }
+}
